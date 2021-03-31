@@ -1,1 +1,2 @@
-# T-rex_Runner
+#T-rex Game
+
