@@ -1,1 +1,1 @@
-<h1>T-Rex Game
+<h1>T-rex Game
